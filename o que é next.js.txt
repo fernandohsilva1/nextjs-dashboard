@@ -1,1 +1,0 @@
-Next.js é um framework baseado em React, que ajuda no desenvolvimento e o simplifica
